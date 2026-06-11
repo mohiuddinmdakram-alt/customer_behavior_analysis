@@ -1,4 +1,4 @@
-📊 Customer Shopping Behavior AnalysisAn end-to-end data analytics project analyzing 3,900 e-commerce transactions across 18 customer attributes. This project demonstrates a complete data workflow: cleaning and preparing raw data using Python, running business-focused exploratory analysis in PostgreSQL (SQL), and building an interactive dashboard in Power BI to drive marketing and retention strategies. 
+📊 Customer Shopping Behavior Analysis .An end-to-end data analytics project analyzing 3,900 e-commerce transactions across 18 customer attributes. This project demonstrates a complete data workflow: cleaning and preparing raw data using Python, running business-focused exploratory analysis in PostgreSQL (SQL), and building an interactive dashboard in Power BI to drive marketing and retention strategies. 
 
 <img width="1427" height="694" alt="image" src="https://github.com/user-attachments/assets/41b373e4-94c6-4c87-8897-5efd29214411" />
 
