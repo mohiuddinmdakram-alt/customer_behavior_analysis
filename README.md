@@ -4,7 +4,7 @@
 
  🛠️ Project Workflow
  
- 🐍 Data Preparation & Cleaning (Python)
+ 1. 🐍 Data Preparation & Cleaning (Python)
   In this phase, I handled data loading, data quality checks, and feature engineering using the pandas library: 
 Missing Data Handling: Identified 37 missing values in the Review Rating column and imputed them using the median rating of each specific product category to keep the data balanced. 
 
